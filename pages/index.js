@@ -15,6 +15,14 @@ export default function Home() {
         <p className="description">
           <code>a publically available collection of files</code>
         </p>
+        <p id="currentTime"></p>
+        <script>
+        function showTime() {
+          document.getElementById('currentTime').innerHTML = new Date().toUTCString()}
+        showTime();
+        setInterval(function () {
+          showTime()}, 1000);
+        </script>
       </main>
 
       <Footer />
