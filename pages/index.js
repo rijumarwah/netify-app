@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Riju's bin" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Riju's <code>code bin</code>
         </p>
       </main>
 
