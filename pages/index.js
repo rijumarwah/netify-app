@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="" />
+        <Header title="retro's code bin" />
         <p className="description">
-          Riju's <code>bin</code>
+          <code>a publically available collection of files</code>
         </p>
       </main>
 
