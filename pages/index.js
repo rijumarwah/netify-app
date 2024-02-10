@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="" />
         <p className="description">
-          Riju's <code>code bin</code>
+          Riju's <code>bin</code>
         </p>
       </main>
 
