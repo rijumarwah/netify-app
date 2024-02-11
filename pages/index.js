@@ -13,14 +13,14 @@ export default function Home() {
       <main>
         <Header title="retro's code bin" />
         <p className="description">
-          <code>a publically available collection of files</code>
+          <code>a publically available collection of <br></br>questionable files</code>
         </p>
 
         <section class="grid">
           <a href="https://docs.replit.com/category/deployments" class='card'>
-            <h2>Deploy &rarr;</h2>
+            <h2>Browse &rarr;</h2>
             <p>
-              After you are happy with this app, deploy it on Replit!
+              All files
             </p>
           </a>
         </section>
