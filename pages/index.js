@@ -20,13 +20,18 @@ export default function Home() {
           <a href="https://docs.replit.com/category/deployments" class='card'>
             <h2>Browse &rarr;</h2>
             <p>
-              Check out what's available
+              Complete list of files
             </p>
+          </a>
+
+          <a href="https://replit.com/learn" class='card'>
+            <h2>Links &rarr;</h2>
+            <p>Other available info</p>
           </a>
         </section>
       </main>
 
-      <Footer />
+
     </div>
   )
 }
