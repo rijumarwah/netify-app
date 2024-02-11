@@ -19,9 +19,6 @@ export default function Home() {
         <section class="grid">
           <a href="https://docs.replit.com/category/deployments" class='card'>
             <h2>Browse &rarr;</h2>
-            <p>
-              Check out what's available
-            </p>
           </a>
         </section>
       </main>
