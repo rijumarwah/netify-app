@@ -17,14 +17,14 @@ export default function Home() {
         </p>
 
         <section class="grid">
-          <a href="https://docs.replit.com/category/deployments" class='card'>
+          <a href="" class='card'>
             <h2>Browse &rarr;</h2>
             <p>
               Complete list of files
             </p>
           </a>
 
-          <a href="https://replit.com/learn" class='card'>
+          <a href="" class='card'>
             <h2>Links &rarr;</h2>
             <p>Other available info</p>
           </a>
